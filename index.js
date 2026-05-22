@@ -51,4 +51,4 @@ pegaArquivo('./arquivos/texto.md');
 
 // \[([^[\]]*?)\]\((https?:\/\/[^\s?#.].[^\s]*)\)
 
-//console.log(chalk.green('O futuro depende do que se faz com o hoje'));
+console.log(chalk.green('O futuro depende do que se faz com o hoje'));
