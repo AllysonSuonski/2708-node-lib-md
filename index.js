@@ -35,7 +35,7 @@ async function pegaArquivo(caminhoDoArquivo) {
 //      .then((texto) => console.log(chalk.green(texto)))
 //      .catch(trataErro)
 //}
-
+//
 //function pegaArquivo(caminhoDoArquivo) {
 //    const encoding = 'utf-8';
 //    fs.readFile(caminhoDoArquivo, encoding, (erro, texto) => { 
